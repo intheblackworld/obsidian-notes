@@ -24,7 +24,7 @@
 
 尋找可生成分鏡畫面的提示詞
 
-
+[[aivideogod 溫罐相關影片測試]]
 [[aivideogod 商業心理學相關影片測試]] 
 [[aivideogod 美業相關影片測試]]
 [[aivideogod 房地產相關影片測試]]
