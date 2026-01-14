@@ -6,7 +6,7 @@
       {
         "id": "24ce55a3f7a5f2bb",
         "type": "tabs",
-        "dimension": 49.92836676217765,
+        "dimension": 63.46153846153846,
         "children": [
           {
             "id": "73e14e74ba18c2d4",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aivideogod 影片製作學習.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aivideogod 影片製作學習"
+              "title": "每週安排"
             }
           },
           {
@@ -85,7 +85,7 @@
       {
         "id": "4cc3b3398011fc94",
         "type": "tabs",
-        "dimension": 50.071633237822354,
+        "dimension": 36.53846153846153,
         "children": [
           {
             "id": "bcd361c187802a2e",
@@ -440,11 +440,11 @@
   },
   "active": "73e14e74ba18c2d4",
   "lastOpenFiles": [
-    "aivideogod 商業心理學相關影片測試.md",
+    "AIVideoGod 腳本優化.md",
     "aivideogod 影片製作學習.md",
+    "aivideogod 商業心理學相關影片測試.md",
     "aivideogod 溫罐相關影片測試.md",
     "還需優化產生畫面，分鏡，旁白的提示詞.md",
-    "AIVideoGod 腳本優化.md",
     "05_內部_筆記/每週安排.md",
     "05_內部_筆記/CZ 資料.md",
     "05_內部_筆記/2026 年度計劃.md",
