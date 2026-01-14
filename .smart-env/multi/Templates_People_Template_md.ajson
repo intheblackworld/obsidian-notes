@@ -1,0 +1,3 @@
+
+"smart_sources:Templates/People Template.md": {"path":"Templates/People Template.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"hc0z52","at":1765280316572},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":111,"at":1765280316572,"hash":"hc0z52"},"blocks":{"#---frontmatter---":[1,7],"##Meetings":[8,10],"##Meetings#{1}":[10,10]},"outlinks":[{"title":"People","target":"People","line":3},{"title":"Meetings.base#Person","target":"Meetings.base#Person","line":10}],"metadata":{"categories":["[[People]]"],"birthday":null,"org":[],"created":{"{ date }":null}},"task_lines":[]},
+"smart_sources:Templates/People Template.md": null,

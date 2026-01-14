@@ -1,0 +1,3 @@
+- How To Easily Organize Projects & Tasks With Obsidian Bases 🚀 
+	- https://www.youtube.com/watch?v=6UZemN4EVA0
+- 

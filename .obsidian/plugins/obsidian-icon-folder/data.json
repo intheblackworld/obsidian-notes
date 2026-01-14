@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiCalendar",
+      "LiNotepadText",
+      "LiAperture",
+      "LiInfo"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00_模板": "LiLayoutTemplate",
+  "01_附件": "LiFile",
+  "02_分類": "FasLayerGroup",
+  "03_外部_資訊碎片": "LiInfo",
+  "04_外部_參考資源": "LiAperture",
+  "05_內部_筆記": "LiNotepadText",
+  "06_每日": "LiCalendar",
+  "07_任務": "LiListTodo"
+}

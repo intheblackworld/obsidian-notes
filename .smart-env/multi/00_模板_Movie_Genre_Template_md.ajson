@@ -1,0 +1,2 @@
+
+"smart_sources:00_模板/Movie Genre Template.md": {"path":"00_模板/Movie Genre Template.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"qkiguc","at":1765280348307},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":54,"at":1765280348308,"hash":"qkiguc"},"blocks":{"#---frontmatter---":[1,4],"#":[5,5]},"outlinks":[{"title":"Movies.base#Genre","target":"Movies.base#Genre","line":5}],"metadata":{"tags":["#movies/genres"]},"task_lines":[]},

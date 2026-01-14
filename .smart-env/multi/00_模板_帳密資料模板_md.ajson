@@ -1,0 +1,4 @@
+
+"smart_sources:00_模板/帳密資料模板.md": {"path":"00_模板/帳密資料模板.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"153qkae","at":1766897130730},"class_name":"SmartSource","last_import":{"mtime":1766897117743,"size":60,"at":1766897130732,"hash":"153qkae"},"blocks":{"#---frontmatter---":[1,7]},"outlinks":[],"metadata":{"slug":null,"type":["account_data"],"tags":["#account_data"]},"task_lines":[]},
+"smart_sources:00_模板/帳密資料模板.md": {"path":"00_模板/帳密資料模板.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1xq8cm6","at":1766964172188},"class_name":"SmartSource","last_import":{"mtime":1766964159202,"size":70,"at":1766964172189,"hash":"1xq8cm6"},"blocks":{"#---frontmatter---":[1,6]},"outlinks":[],"metadata":{"slug":null,"categories":"account_password","tags":["#account_password"]},"task_lines":[]},
+"smart_sources:00_模板/帳密資料模板.md": null,

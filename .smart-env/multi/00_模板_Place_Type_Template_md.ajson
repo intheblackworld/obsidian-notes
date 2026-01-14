@@ -1,0 +1,2 @@
+
+"smart_sources:00_模板/Place Type Template.md": {"path":"00_模板/Place Type Template.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"9xw06k","at":1765280348309},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":84,"at":1765280348309,"hash":"9xw06k"},"blocks":{"#---frontmatter---":[1,4],"##Places":[6,10],"##Places#{1}":[8,10]},"outlinks":[{"title":"Map.base#Type","target":"Map.base#Type","line":8},{"title":"Places.base#Type","target":"Places.base#Type","line":10}],"metadata":{"tags":["#places/types"]},"task_lines":[]},

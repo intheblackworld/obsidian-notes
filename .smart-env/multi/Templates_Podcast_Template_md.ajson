@@ -1,0 +1,3 @@
+
+"smart_sources:Templates/Podcast Template.md": {"path":"Templates/Podcast Template.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"twt9wi","at":1765280316573},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":101,"at":1765280316573,"hash":"twt9wi"},"blocks":{"#---frontmatter---":[1,6],"##Episodes":[7,10],"##Episodes#{1}":[9,10]},"outlinks":[{"title":"Podcasts","target":"Podcasts","line":3},{"title":"Podcast episodes.base#Show","target":"Podcast episodes.base#Show","line":9}],"metadata":{"categories":["[[Podcasts]]"],"host":[],"rating":null},"task_lines":[]},
+"smart_sources:Templates/Podcast Template.md": null,

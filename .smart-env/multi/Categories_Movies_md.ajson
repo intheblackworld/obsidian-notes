@@ -1,0 +1,3 @@
+
+"smart_sources:Categories/Movies.md": {"path":"Categories/Movies.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1981c14","at":1765280316548},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":115,"at":1765280316549,"hash":"1981c14"},"blocks":{"#---frontmatter---":[1,4],"##Favorites":[5,9],"##Favorites#{1}":[7,9],"##Last seen":[10,15],"##Last seen#{1}":[12,15]},"outlinks":[{"title":"Movies.base#Favorites","target":"Movies.base#Favorites","line":7},{"title":"Movies.base#Last seen","target":"Movies.base#Last seen","line":12}],"metadata":{"tags":["#categories"]},"task_lines":[]},
+"smart_sources:Categories/Movies.md": null,

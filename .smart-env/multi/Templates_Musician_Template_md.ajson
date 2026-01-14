@@ -1,0 +1,3 @@
+
+"smart_sources:Templates/Musician Template.md": {"path":"Templates/Musician Template.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1qhjjym","at":1765280316572},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":111,"at":1765280316572,"hash":"1qhjjym"},"blocks":{"#---frontmatter---":[1,6],"##Albums":[7,9],"##Albums#{1}":[9,9]},"outlinks":[{"title":"People","target":"People","line":2},{"title":"Musicians","target":"Musicians","line":4},{"title":"Albums.base#Artist","target":"Albums.base#Artist","line":9}],"metadata":{"categories":"[[People]]","type":["[[Musicians]]"],"created":{"{ date }":null}},"task_lines":[]},
+"smart_sources:Templates/Musician Template.md": null,

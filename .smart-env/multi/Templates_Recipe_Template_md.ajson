@@ -1,0 +1,3 @@
+
+"smart_sources:Templates/Recipe Template.md": {"path":"Templates/Recipe Template.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"9nlo79","at":1765280316573},"class_name":"SmartSource","last_import":{"mtime":1764950957000,"size":177,"at":1765280316573,"hash":"9nlo79"},"blocks":{"#---frontmatter---":[1,12],"##Ingredients":[13,16],"##Ingredients#{1}":[15,16],"##Directions":[17,20],"##Directions#{1}":[19,20],"##Notes":[21,23],"##Notes#{1}":[23,23]},"outlinks":[{"title":"Recipes","target":"Recipes","line":3}],"metadata":{"categories":["[[Recipes]]"],"cuisine":null,"type":[],"ingredients":null,"author":[],"url":null,"rating":null,"created":{"{ date }":null},"last":{"{ date }":null}},"task_lines":[]},
+"smart_sources:Templates/Recipe Template.md": null,
