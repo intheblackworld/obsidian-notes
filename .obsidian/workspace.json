@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aivideogod 影片製作學習.md",
+                "file": "AIVideoGod 搜集應用場景.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aivideogod 影片製作學習"
+              "title": "AIVideoGod 搜集應用場景"
             }
           },
           {
@@ -465,8 +465,8 @@
   },
   "active": "7514978600f57431",
   "lastOpenFiles": [
-    "AIVideoGod 腳本優化.md",
     "aivideogod 影片製作學習.md",
+    "AIVideoGod 腳本優化.md",
     "AIVideoGod 搜集應用場景.md",
     "05_內部_筆記/每週安排.md",
     "室內設計AI研究.md",

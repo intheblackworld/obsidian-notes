@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=7aJh-KdqeJE
 UCG 帶貨影片
 #topview
 https://www.youtube.com/watch?v=0UTzEK8q5ik
+
+# 【保母級實操】不露臉做網紅，10分鐘用AI生成超逼真的虛擬網紅，月賺1w美金✨ Step-by-Step Tutorial To Create AI Instagram/TikTok model
+
+https://www.youtube.com/watch?v=-99yts8xBYI
