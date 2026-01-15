@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "CZ 案件追蹤.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "CZ 案件追蹤"
             }
           },
           {
@@ -104,8 +104,7 @@
               "title": "NNTIX 資料"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cc3b3398011fc94",
@@ -464,14 +463,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e14e74ba18c2d4",
+  "active": "7514978600f57431",
   "lastOpenFiles": [
+    "Pasted image 20260115224326.png",
+    "05_內部_筆記/每週安排.md",
+    "CZ 案件追蹤.md",
+    "05_內部_筆記/能量學/20260115 財運翻轉實戰陪跑班.md",
     "05_內部_筆記/能量學/2026 生生世世相關的行動方案.md",
     "05_內部_筆記/能量學/20260110 生生世世告別貧窮.md",
     "05_內部_筆記/能量學/20260103  生生世世告別負債.md",
     "05_內部_筆記/能量學/20251022 體運問題.md",
-    "05_內部_筆記/能量學/20260115 財運翻轉實戰陪跑班.md",
-    "05_內部_筆記/每週安排.md",
     "NNTIX 資料.md",
     "DK 每月完成率機制調整.md",
     "aivideogod 影片製作學習.md",
@@ -492,8 +493,6 @@
     "05_內部_筆記/專案帳密資料.base",
     "ENTRYGO 轉移.md",
     "EC 庫存系統.md",
-    "鏡頭語言.md",
-    "07_任務/待辦任務.md",
     "Pasted image 20260104091528.png",
     "Pasted image 20260104091336.png",
     "Pasted image 20260104090648.png",
