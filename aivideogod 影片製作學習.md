@@ -26,6 +26,8 @@
 
 
 [[AIVideoGod 腳本優化]]
+[[AIVideoGod 搜集應用場景]]
+
 
 [[aivideogod 皇帝系列影片測試]]
 [[aivideogod 溫罐相關影片測試]]
