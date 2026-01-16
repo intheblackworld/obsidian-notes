@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aivideogod 室內設計AI研究.md",
+                "file": "aivideogod 產品銷售.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,21 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aivideogod 室內設計AI研究"
-            }
-          },
-          {
-            "id": "0fca49c3ae99d6cc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=TEj_4hpAk4w",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "aivideogod 產品銷售"
             }
           },
           {
@@ -118,8 +104,7 @@
               "title": "NNTIX 資料"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cc3b3398011fc94",
@@ -477,15 +462,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fca49c3ae99d6cc",
+  "active": "7514978600f57431",
   "lastOpenFiles": [
-    "aivideogod 室內設計AI研究.md",
-    "aivideogod 影片製作學習.md",
     "05_內部_筆記/每週安排.md",
+    "aivideogod 影片製作學習.md",
+    "aivideogod 室內設計AI研究.md",
+    "NNTIX 資料.md",
+    "05_內部_筆記/能量學/20260115 財運翻轉實戰陪跑班.md",
     "AIVideoGod 腳本優化.md",
     "aivideogod 房地產相關影片測試.md",
     "AIVideoGod 搜集教學與應用場景.md",
-    "05_內部_筆記/能量學/20260115 財運翻轉實戰陪跑班.md",
     "05_內部_筆記/CZ 資料.md",
     "CZ 案件追蹤.md",
     "Pasted image 20260115225527.png",
@@ -496,7 +482,6 @@
     "05_內部_筆記/能量學/20260110 生生世世告別貧窮.md",
     "05_內部_筆記/能量學/20260103  生生世世告別負債.md",
     "05_內部_筆記/能量學/20251022 體運問題.md",
-    "NNTIX 資料.md",
     "DK 每月完成率機制調整.md",
     "aivideogod 商業心理學相關影片測試.md",
     "aivideogod 皇帝系列影片測試.md",
