@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=HSe_cXEBD-k
 
 # How 1 PROMPT in Kling 2.6 Replaced 850 Renders
 https://www.youtube.com/watch?v=TEj_4hpAk4w
+
+
+https://youtu.be/QPS6ftjZeP8?si=V4zE9kpGM8dI36_F&t=503
