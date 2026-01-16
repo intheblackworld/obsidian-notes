@@ -104,7 +104,8 @@
               "title": "NNTIX 資料"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cc3b3398011fc94",
@@ -463,13 +464,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7514978600f57431",
+  "active": "4ab1d448501e29b1",
   "lastOpenFiles": [
+    "AIVideoGod 搜集教學與應用場景.md",
     "aivideogod 影片製作學習.md",
     "05_內部_筆記/每週安排.md",
     "aivideogod 室內設計AI研究.md",
     "AIVideoGod 腳本優化.md",
-    "AIVideoGod 搜集教學與應用場景.md",
     "05_內部_筆記/CZ 資料.md",
     "aivideogod 產品銷售.md",
     "NNTIX 資料.md",
