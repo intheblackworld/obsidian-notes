@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "CZ 案件追蹤.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "CZ 案件追蹤"
             }
           },
           {
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4cc3b3398011fc94",
@@ -464,14 +464,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ab1d448501e29b1",
+  "active": "73e14e74ba18c2d4",
   "lastOpenFiles": [
+    "05_內部_筆記/每週安排.md",
+    "05_內部_筆記/CZ 資料.md",
     "AIVideoGod 搜集教學與應用場景.md",
     "aivideogod 影片製作學習.md",
-    "05_內部_筆記/每週安排.md",
     "aivideogod 室內設計AI研究.md",
     "AIVideoGod 腳本優化.md",
-    "05_內部_筆記/CZ 資料.md",
     "aivideogod 產品銷售.md",
     "NNTIX 資料.md",
     "05_內部_筆記/能量學/20260115 財運翻轉實戰陪跑班.md",
