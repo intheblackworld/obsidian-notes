@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aivideogod 影片製作學習.md",
+                "file": "aivideogod 室內設計AI研究.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aivideogod 影片製作學習"
+              "title": "aivideogod 室內設計AI研究"
+            }
+          },
+          {
+            "id": "0fca49c3ae99d6cc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=TEj_4hpAk4w",
+                "title": "data:text/plain,",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "data:text/plain,"
             }
           },
           {
@@ -104,7 +118,8 @@
               "title": "NNTIX 資料"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4cc3b3398011fc94",
@@ -462,7 +477,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7514978600f57431",
+  "active": "0fca49c3ae99d6cc",
   "lastOpenFiles": [
     "aivideogod 室內設計AI研究.md",
     "aivideogod 影片製作學習.md",
