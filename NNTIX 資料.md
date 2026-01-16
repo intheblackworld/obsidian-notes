@@ -26,4 +26,7 @@ https://seller-api.nnnotix.com/swagger/
 
 https://github.com/nnticket/nntix-frontend-api
 前台API也好了
+
+前台 API
+https://api.nnnotix.com/swagger/
 ```
