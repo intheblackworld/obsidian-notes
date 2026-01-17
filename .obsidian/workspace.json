@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "2026-01-20 - 2026-01-23 日本京都"
             }
           },
           {
@@ -112,6 +112,30 @@
         "type": "tabs",
         "dimension": 36.53846153846153,
         "children": [
+          {
+            "id": "d08c113f796a9297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本京都行前準備.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日本京都行前準備"
+            }
+          },
           {
             "id": "bcd361c187802a2e",
             "type": "leaf",
@@ -464,12 +488,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e14e74ba18c2d4",
+  "active": "d08c113f796a9297",
   "lastOpenFiles": [
-    "CZ tbb 台灣企銀3.md",
-    "05_內部_筆記/每週安排.md",
-    "CZ 案件追蹤.md",
+    "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
+    "日本京都行前準備.md",
     "05_內部_筆記/CZ 資料.md",
+    "05_內部_筆記/每週安排.md",
+    "CZ tbb 台灣企銀3.md",
+    "CZ 案件追蹤.md",
     "AIVideoGod 搜集教學與應用場景.md",
     "aivideogod 影片製作學習.md",
     "aivideogod 室內設計AI研究.md",
@@ -495,8 +521,6 @@
     "還需優化產生畫面，分鏡，旁白的提示詞.md",
     "05_內部_筆記/2026 年度計劃.md",
     "天上的錢.md",
-    "dk 神兵 教學.md",
-    "NNTIX 總後台.md",
     "05_內部_筆記/專案帳密資料.base",
     "Pasted image 20260104091528.png",
     "Pasted image 20260104091336.png",
