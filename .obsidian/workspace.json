@@ -6,7 +6,7 @@
       {
         "id": "24ce55a3f7a5f2bb",
         "type": "tabs",
-        "dimension": 28.908554572271388,
+        "dimension": 52.257525083612045,
         "children": [
           {
             "id": "7514978600f57431",
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-20 - 2026-01-23 日本京都"
+              "title": "每週安排"
             }
           },
           {
@@ -110,7 +110,7 @@
       {
         "id": "4cc3b3398011fc94",
         "type": "tabs",
-        "dimension": 71.09144542772862,
+        "dimension": 47.74247491638796,
         "children": [
           {
             "id": "d08c113f796a9297",
@@ -488,7 +488,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d08c113f796a9297",
+  "active": "73e14e74ba18c2d4",
   "lastOpenFiles": [
     "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
     "日本京都行前準備.md",
