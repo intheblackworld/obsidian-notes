@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "盤點.md",
+                "file": "任務盤點.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "盤點"
+              "title": "任務盤點"
             }
           }
         ],
@@ -416,12 +416,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e14e74ba18c2d4",
+  "active": "7b8b1b616887e236",
   "lastOpenFiles": [
-    "EntryGO 結算費用.md",
     "05_內部_筆記/每週安排.md",
+    "任務盤點.md",
+    "EntryGO 結算費用.md",
     "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
-    "盤點.md",
     "NNTIX 資料.md",
     "aivideogod 影片製作學習.md",
     "AIVideoGod 搜集教學與應用場景.md",
