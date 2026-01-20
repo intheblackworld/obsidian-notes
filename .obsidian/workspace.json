@@ -113,6 +113,30 @@
         "dimension": 47.74247491638796,
         "children": [
           {
+            "id": "b689b2148548b038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本京都行前準備.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日本京都行前準備"
+            }
+          },
+          {
             "id": "d08c113f796a9297",
             "type": "leaf",
             "state": {
@@ -369,14 +393,14 @@
   },
   "active": "73e14e74ba18c2d4",
   "lastOpenFiles": [
-    "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
     "日本京都行前準備.md",
+    "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
+    "05_內部_筆記/2026 年度計劃.md",
     "05_內部_筆記/能量學/2026 生生世世相關的行動方案.md",
     "05_內部_筆記/能量學/20260110 生生世世告別貧窮.md",
     "05_內部_筆記/能量學/20260103  生生世世告別負債.md",
     "05_內部_筆記/能量學/20251022 體運問題.md",
     "EntryGO 結算費用.md",
-    "05_內部_筆記/2026 年度計劃.md",
     "05_內部_筆記/能量學/20250811 觀心書培訓.md",
     "2026.md",
     "05_內部_筆記/每週安排.md",
