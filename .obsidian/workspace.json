@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "05_內部_筆記/能量學/20250811 觀心書培訓.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "20250811 觀心書培訓"
             }
           },
           {
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4cc3b3398011fc94",
@@ -487,13 +487,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ab1d448501e29b1",
+  "active": "73e14e74ba18c2d4",
   "lastOpenFiles": [
-    "日本京都行前準備.md",
+    "05_內部_筆記/2026 年度計劃.md",
+    "2026.md",
     "05_內部_筆記/每週安排.md",
+    "05_內部_筆記/CZ 資料.md",
+    "日本京都行前準備.md",
     "05_內部_筆記/出國行李準備清單.md",
     "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
-    "05_內部_筆記/CZ 資料.md",
     "CZ tbb 台灣企銀3.md",
     "CZ 案件追蹤.md",
     "AIVideoGod 搜集教學與應用場景.md",
@@ -518,8 +520,6 @@
     "Pasted image 20260115154217.png",
     "aivideogod 溫罐相關影片測試.md",
     "05_內部_筆記/payuni 金流服務申請.md",
-    "還需優化產生畫面，分鏡，旁白的提示詞.md",
-    "05_內部_筆記/2026 年度計劃.md",
     "05_內部_筆記/專案帳密資料.base",
     "Pasted image 20260104091528.png",
     "Pasted image 20260104091336.png",
