@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIVideoGod 搜集教學與應用場景.md",
+                "file": "aivideogod 影片製作學習.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,31 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AIVideoGod 搜集教學與應用場景"
-            }
-          },
-          {
-            "id": "73e14e74ba18c2d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_內部_筆記/每週安排.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "aivideogod 影片製作學習"
             }
           },
           {
@@ -103,15 +79,63 @@
               "icon": "lucide-file",
               "title": "NNTIX 資料"
             }
+          },
+          {
+            "id": "7b8b1b616887e236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "盤點.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "盤點"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "4cc3b3398011fc94",
         "type": "tabs",
         "dimension": 47.74247491638796,
         "children": [
+          {
+            "id": "73e14e74ba18c2d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_內部_筆記/每週安排.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "每週安排"
+            }
+          },
           {
             "id": "b689b2148548b038",
             "type": "leaf",
@@ -391,8 +415,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e14e74ba18c2d4",
+  "active": "7b8b1b616887e236",
   "lastOpenFiles": [
+    "盤點.md",
+    "NNTIX 資料.md",
+    "05_內部_筆記/每週安排.md",
+    "aivideogod 影片製作學習.md",
+    "AIVideoGod 搜集教學與應用場景.md",
     "05_內部_筆記/2026 年度計劃.md",
     "日本京都行前準備.md",
     "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
@@ -403,18 +432,14 @@
     "EntryGO 結算費用.md",
     "05_內部_筆記/能量學/20250811 觀心書培訓.md",
     "2026.md",
-    "05_內部_筆記/每週安排.md",
     "05_內部_筆記/CZ 資料.md",
     "05_內部_筆記/出國行李準備清單.md",
     "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
     "CZ tbb 台灣企銀3.md",
     "CZ 案件追蹤.md",
-    "AIVideoGod 搜集教學與應用場景.md",
-    "aivideogod 影片製作學習.md",
     "aivideogod 室內設計AI研究.md",
     "AIVideoGod 腳本優化.md",
     "aivideogod 產品銷售.md",
-    "NNTIX 資料.md",
     "05_內部_筆記/能量學/20260115 財運翻轉實戰陪跑班.md",
     "aivideogod 房地產相關影片測試.md",
     "Pasted image 20260115225527.png",
@@ -422,7 +447,6 @@
     "Pasted image 20260115224640.png",
     "Pasted image 20260115224326.png",
     "DK 每月完成率機制調整.md",
-    "aivideogod 商業心理學相關影片測試.md",
     "Pasted image 20260115154217.png",
     "05_內部_筆記/專案帳密資料.base",
     "Pasted image 20260104091528.png",
