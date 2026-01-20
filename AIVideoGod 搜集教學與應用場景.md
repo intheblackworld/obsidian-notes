@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=-99yts8xBYI
 # 【AI影片實操】Gemini3.0+Nano Banana Pro無限畫布批量製作AI知識解說影片，人物一致，精準控制，九宮格分鏡生成影片
 
 https://www.youtube.com/watch?v=QPS6ftjZeP8
+
+# 我開發了我一直夢寐以求的 AI 電影攝影工具
+
+[](https://www.youtube.com/@promptgeek)
+https://www.youtube.com/watch?v=-mTYBgQLPOw
