@@ -103,9 +103,19 @@
               "icon": "lucide-file",
               "title": "任務盤點"
             }
+          },
+          {
+            "id": "b03a9ffcf18a575b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -416,15 +426,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b8b1b616887e236",
+  "active": "b03a9ffcf18a575b",
   "lastOpenFiles": [
+    "任務盤點.md",
+    "aivideogod 影片製作學習.md",
+    "05_內部_筆記/CZ 資料.md",
+    "NNTIX 資料.md",
     "計程車.md",
     "05_內部_筆記/每週安排.md",
-    "任務盤點.md",
     "EntryGO 結算費用.md",
     "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
-    "NNTIX 資料.md",
-    "aivideogod 影片製作學習.md",
     "AIVideoGod 搜集教學與應用場景.md",
     "05_內部_筆記/2026 年度計劃.md",
     "日本京都行前準備.md",
@@ -434,7 +445,6 @@
     "05_內部_筆記/能量學/20251022 體運問題.md",
     "05_內部_筆記/能量學/20250811 觀心書培訓.md",
     "2026.md",
-    "05_內部_筆記/CZ 資料.md",
     "05_內部_筆記/出國行李準備清單.md",
     "05_內部_筆記/2026-01-20 - 2026-01-23 日本京都.md",
     "CZ tbb 台灣企銀3.md",
