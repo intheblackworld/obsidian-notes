@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CZ tbb 台灣企銀3.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,10 +125,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CZ tbb 台灣企銀3"
+              "title": "每週安排"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -439,18 +440,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7514978600f57431",
+  "active": "b03a9ffcf18a575b",
   "lastOpenFiles": [
-    "05_內部_筆記/每週安排.md",
+    "CZ tbb 台灣企銀3.md",
+    "05_內部_筆記/CZ 資料.md",
     "Claude Code 優化.md",
+    "05_內部_筆記/每週安排.md",
     "aivideogod 影片製作學習.md",
     "AIVideoGod 搜集教學與應用場景.md",
     "aivideogod 室內設計AI研究.md",
     "AIVideoGod 腳本優化.md",
     "suno 學習.md",
-    "CZ tbb 台灣企銀3.md",
     "任務盤點.md",
-    "05_內部_筆記/CZ 資料.md",
     "NNTIX 資料.md",
     "計程車.md",
     "EntryGO 結算費用.md",
