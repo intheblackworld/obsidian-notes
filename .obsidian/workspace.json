@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "EC 摸彩系統.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,11 +125,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "EC 摸彩系統"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -440,13 +440,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ab1d448501e29b1",
+  "active": "f30adc4ed4854043",
   "lastOpenFiles": [
-    "任務盤點.md",
     "05_內部_筆記/每週安排.md",
+    "EC 摸彩系統.md",
+    "EC 庫存系統.md",
+    "05_內部_筆記/CZ 資料.md",
+    "任務盤點.md",
     "Aivis 官網.md",
     "DK 每月完成率機制調整.md",
-    "05_內部_筆記/CZ 資料.md",
     "DK 金流發票串接&定價.md",
     "CZ tbb 台灣企銀3.md",
     "Claude Code 優化.md",
@@ -466,8 +468,6 @@
     "05_內部_筆記/能量學/20260103  生生世世告別負債.md",
     "05_內部_筆記/能量學/20251022 體運問題.md",
     "05_內部_筆記/能量學/20250811 觀心書培訓.md",
-    "2026.md",
-    "05_內部_筆記/出國行李準備清單.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
