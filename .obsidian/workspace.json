@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "DK 寵物系統.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,35 +125,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
-            }
-          },
-          {
-            "id": "836993751702419e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aivideogod 商業心理學相關影片測試.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "aivideogod 商業心理學相關影片測試"
+              "title": "DK 寵物系統"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -463,10 +439,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "836993751702419e",
+  "active": "f30adc4ed4854043",
   "lastOpenFiles": [
-    "aivideogod 影片製作學習.md",
+    "DK 寵物系統.md",
     "05_內部_筆記/每週安排.md",
+    "aivideogod 影片製作學習.md",
+    "aivideogod 商業心理學相關影片測試.md",
     "Aivis 官網.md",
     "05_內部_筆記/能量學/20250813 觀心書.md",
     "05_內部_筆記/2026 年度計劃.md",
@@ -490,8 +468,6 @@
     "NNTIX 資料.md",
     "計程車.md",
     "EntryGO 結算費用.md",
-    "日本京都行前準備.md",
-    "05_內部_筆記/能量學/2026 生生世世相關的行動方案.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
