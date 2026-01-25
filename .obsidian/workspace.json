@@ -103,33 +103,9 @@
               "icon": "lucide-file",
               "title": "DK 寵物系統"
             }
-          },
-          {
-            "id": "f30adc4ed4854043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DK 寵物系統.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DK 寵物系統"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "4cc3b3398011fc94",
@@ -440,7 +416,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30adc4ed4854043",
+  "active": "4ab1d448501e29b1",
   "lastOpenFiles": [
     "DK 寵物系統.md",
     "05_內部_筆記/CZ 資料.md",
