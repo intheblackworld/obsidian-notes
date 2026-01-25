@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "4cc3b3398011fc94",
@@ -440,10 +440,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a0fb8e28e97091",
+  "active": "4ab1d448501e29b1",
   "lastOpenFiles": [
-    "05_內部_筆記/每週安排.md",
     "DK 寵物系統.md",
+    "05_內部_筆記/每週安排.md",
     "NNTIX 資料.md",
     "05_內部_筆記/CZ 資料.md",
     "任務盤點.md",
