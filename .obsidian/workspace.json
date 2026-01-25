@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "任務盤點.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "任務盤點"
+              "title": "每週安排"
             }
           },
           {
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "4cc3b3398011fc94",
@@ -262,7 +262,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cdccfa25c4e9faf1",
@@ -439,8 +440,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30adc4ed4854043",
+  "active": "7b8b1b616887e236",
   "lastOpenFiles": [
+    "任務盤點.md",
     "DK 寵物系統.md",
     "05_內部_筆記/每週安排.md",
     "aivideogod 影片製作學習.md",
@@ -456,7 +458,6 @@
     "EC 庫存系統.md",
     "EC 摸彩系統.md",
     "05_內部_筆記/CZ 資料.md",
-    "任務盤點.md",
     "DK 每月完成率機制調整.md",
     "DK 金流發票串接&定價.md",
     "CZ tbb 台灣企銀3.md",
