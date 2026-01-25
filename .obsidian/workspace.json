@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "3017aec7f98dfc41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.11.5"
+            }
+          },
+          {
             "id": "aeed4b3c8e11bbbe",
             "type": "leaf",
             "state": {
@@ -419,6 +431,7 @@
   "active": "4ab1d448501e29b1",
   "lastOpenFiles": [
     "DK 寵物系統.md",
+    "NNTIX 資料.md",
     "05_內部_筆記/CZ 資料.md",
     "05_內部_筆記/每週安排.md",
     "任務盤點.md",
@@ -442,7 +455,6 @@
     "aivideogod 室內設計AI研究.md",
     "AIVideoGod 腳本優化.md",
     "suno 學習.md",
-    "NNTIX 資料.md",
     "計程車.md",
     "EntryGO 結算費用.md",
     "Pasted image 20260115225527.png",
