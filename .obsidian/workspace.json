@@ -284,7 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.5110321044922
   },
   "right": {
     "id": "b8a424f1a530021a",
@@ -440,12 +440,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b8b1b616887e236",
+  "active": "e1a0fb8e28e97091",
   "lastOpenFiles": [
     "05_內部_筆記/每週安排.md",
+    "DK 寵物系統.md",
     "NNTIX 資料.md",
     "05_內部_筆記/CZ 資料.md",
-    "DK 寵物系統.md",
     "任務盤點.md",
     "aivideogod 影片製作學習.md",
     "aivideogod 商業心理學相關影片測試.md",
