@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aivis 官網.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aivis 官網"
+              "title": "每週安排"
             }
           }
         ],
@@ -441,6 +441,7 @@
   },
   "active": "f30adc4ed4854043",
   "lastOpenFiles": [
+    "Aivis 官網.md",
     "05_內部_筆記/每週安排.md",
     "05_內部_筆記/能量學/20250813 觀心書.md",
     "05_內部_筆記/2026 年度計劃.md",
@@ -453,7 +454,6 @@
     "EC 摸彩系統.md",
     "05_內部_筆記/CZ 資料.md",
     "任務盤點.md",
-    "Aivis 官網.md",
     "DK 每月完成率機制調整.md",
     "DK 金流發票串接&定價.md",
     "CZ tbb 台灣企銀3.md",
