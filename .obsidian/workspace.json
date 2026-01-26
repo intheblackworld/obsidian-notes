@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/CZ 資料.md",
+                "file": "06_每日/2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CZ 資料"
+              "title": "2026-01-26"
             }
           },
           {
@@ -310,8 +310,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cdccfa25c4e9faf1",
@@ -332,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b8a424f1a530021a",
@@ -491,6 +489,9 @@
   },
   "active": "4ab1d448501e29b1",
   "lastOpenFiles": [
+    "06_每日/2026-01-25.md",
+    "06_每日/2026-01-26.md",
+    "05_內部_筆記/CZ 資料.md",
     "聯盟戰棋 16.3c 陣容推薦.md",
     "05_內部_筆記/每週安排.md",
     "aivideogod 模特兒代言影片測試.md",
@@ -499,7 +500,6 @@
     "AIVideoGod 搜集教學與應用場景.md",
     "Pasted image 20260126111943.png",
     "05_內部_筆記/聯盟戰棋/聯盟戰棋 裝備合成表.md",
-    "05_內部_筆記/CZ 資料.md",
     "DK 寵物系統.md",
     "NNTIX 資料.md",
     "任務盤點.md",
@@ -507,7 +507,6 @@
     "Aivis 官網.md",
     "05_內部_筆記/能量學/20250813 觀心書.md",
     "05_內部_筆記/2026 年度計劃.md",
-    "06_每日/2026-01-25.md",
     "05_內部_筆記/能量學/能量學 - 檢核清單.md",
     "05_內部_筆記/能量學/20260103  生生世世告別負債.md",
     "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
@@ -518,7 +517,6 @@
     "DK 金流發票串接&定價.md",
     "CZ tbb 台灣企銀3.md",
     "Claude Code 優化.md",
-    "AIVideoGod 腳本優化.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
