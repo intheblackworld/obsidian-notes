@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5110321044922
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b8a424f1a530021a",
@@ -440,12 +441,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ab1d448501e29b1",
+  "active": "84c9d1b071378cd7",
   "lastOpenFiles": [
+    "05_內部_筆記/CZ 資料.md",
     "DK 寵物系統.md",
     "05_內部_筆記/每週安排.md",
     "NNTIX 資料.md",
-    "05_內部_筆記/CZ 資料.md",
     "任務盤點.md",
     "aivideogod 影片製作學習.md",
     "aivideogod 商業心理學相關影片測試.md",
