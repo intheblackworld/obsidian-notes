@@ -134,7 +134,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "聯盟戰棋 16.3c 陣容推薦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -149,11 +149,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "聯盟戰棋 16.3c 陣容推薦"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -465,10 +465,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88f41d01f66292dc",
+  "active": "84c9d1b071378cd7",
   "lastOpenFiles": [
+    "聯盟戰棋 16.3c 陣容推薦.md",
+    "Pasted image 20260126111943.png",
     "05_內部_筆記/聯盟戰棋/聯盟戰棋 裝備合成表.md",
-    "未命名.md",
     "05_內部_筆記/每週安排.md",
     "05_內部_筆記/CZ 資料.md",
     "DK 寵物系統.md",
@@ -493,7 +494,6 @@
     "AIVideoGod 搜集教學與應用場景.md",
     "aivideogod 室內設計AI研究.md",
     "AIVideoGod 腳本優化.md",
-    "suno 學習.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
@@ -512,7 +512,6 @@
     "未命名.canvas",
     "未命名.base",
     "00_模板/Bases/Movies.base",
-    "01_附件/out-of-control.jpg",
-    "IMG_9113.jpg"
+    "01_附件/out-of-control.jpg"
   ]
 }
