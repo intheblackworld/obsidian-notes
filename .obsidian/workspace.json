@@ -129,6 +129,30 @@
             }
           },
           {
+            "id": "1c266f2f0210565e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aivideogod 影片製作學習.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "aivideogod 影片製作學習"
+            }
+          },
+          {
             "id": "88f41d01f66292dc",
             "type": "leaf",
             "state": {
@@ -153,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "4cc3b3398011fc94",
@@ -465,17 +489,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c9d1b071378cd7",
+  "active": "1c266f2f0210565e",
   "lastOpenFiles": [
+    "05_內部_筆記/每週安排.md",
+    "aivideogod 影片製作學習.md",
     "聯盟戰棋 16.3c 陣容推薦.md",
     "Pasted image 20260126111943.png",
     "05_內部_筆記/聯盟戰棋/聯盟戰棋 裝備合成表.md",
-    "05_內部_筆記/每週安排.md",
     "05_內部_筆記/CZ 資料.md",
     "DK 寵物系統.md",
     "NNTIX 資料.md",
     "任務盤點.md",
-    "aivideogod 影片製作學習.md",
     "aivideogod 商業心理學相關影片測試.md",
     "Aivis 官網.md",
     "05_內部_筆記/能量學/20250813 觀心書.md",
