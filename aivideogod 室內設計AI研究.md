@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=ES6BcIIiB5g
 https://www.youtube.com/watch?v=uXpa89qFj0c
 
 
+Nanobanana Prompts
+https://www.bananaprompts.xyz/
+
 使用 google map 衛星地圖截圖生成高清空拍圖片的提示詞
 ```
 A hyper-realistic, cinematic drone photograph based strictly on the geography and layout of the provided satellite image. Transform the flat, top-down satellite view into a slight oblique angle (high-angle shot) to create three-dimensional depth.
@@ -67,3 +70,5 @@ The image must include several text annotations that blend seamlessly with the d
 
 The final result should feel like a charming, spontaneous "napkin sketch" or "doodle" that celebrates irregularity and imperfection, strictly in black and white.
 ```
+
+
