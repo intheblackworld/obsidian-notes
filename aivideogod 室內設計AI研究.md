@@ -36,3 +36,19 @@ Shot on a high-resolution aerial cinema camera. incredible detail, sharp focus a
 ```
 
 upscale to 4k
+
+生成建築物3d立面圖的提示詞
+```
+Act as a lead design architect performing a massing study. Your goal is to explore volumetric variations. Ignore all fenestration, materials, and fine details.
+
+Focus solely on the overall form, silhouette, and relationship of solid volumes.
+
+Using the general scale and footprint of the provided image as a starting constraint, manipulate the volume by applying additive principles. I want you to extrude the mass to create a structure that feels branched and creates moments of overhangs and permeable spaces.
+
+ender the final output as an isometric conceptual model study. The entire structure must be visualized as monolithic, rough grey concrete with a brutalist texture, showing subtle imperfections and aggregate. It should be set against a seamless, infinite light grey studio background with soft, diffused lighting that casts gentle, grounding shadows.
+
+Include a couple of tiny monochromatic scale figures next to the mass and inside the mass as well to emphasize its monumental scale.
+
+The base volume is a one pitched roof shed type cabin. Use the reference image as a base start.
+```
+
