@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "室內設計 Line Bot POC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "室內設計 Line Bot POC"
             }
           },
           {
@@ -441,8 +441,9 @@
   },
   "active": "84c9d1b071378cd7",
   "lastOpenFiles": [
-    "喬登衛浴.md",
     "05_內部_筆記/每週安排.md",
+    "室內設計 Line Bot POC.md",
+    "喬登衛浴.md",
     "NNTIX 資料.md",
     "06_每日/2026-01-26.md",
     "06_每日/2026-01-25.md",
@@ -468,7 +469,6 @@
     "EC 摸彩系統.md",
     "DK 每月完成率機制調整.md",
     "DK 金流發票串接&定價.md",
-    "CZ tbb 台灣企銀3.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
