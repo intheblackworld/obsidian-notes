@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_內部_筆記/每週安排.md",
+                "file": "06_每日/2026-01-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每週安排"
+              "title": "2026-01-27"
             }
           },
           {
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "4cc3b3398011fc94",
@@ -439,8 +439,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b8b1b616887e236",
+  "active": "84c9d1b071378cd7",
   "lastOpenFiles": [
+    "06_每日/2026-01-26.md",
+    "06_每日/2026-01-27.md",
     "05_內部_筆記/每週安排.md",
     "05_內部_筆記/健身筆記.md",
     "負債.md",
@@ -448,7 +450,6 @@
     "室內設計 Line Bot POC.md",
     "喬登衛浴.md",
     "NNTIX 資料.md",
-    "06_每日/2026-01-26.md",
     "06_每日/2026-01-25.md",
     "05_內部_筆記/CZ 資料.md",
     "聯盟戰棋 16.3c 陣容推薦.md",
@@ -468,7 +469,6 @@
     "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
     "05_內部_筆記/觀心書",
     "EC 庫存系統.md",
-    "EC 摸彩系統.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
