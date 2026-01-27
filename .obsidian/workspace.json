@@ -105,6 +105,30 @@
             }
           },
           {
+            "id": "8dc92e4eb0d57133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_內部_筆記/每週安排.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "每週安排"
+            }
+          },
+          {
             "id": "1c266f2f0210565e",
             "type": "leaf",
             "state": {
@@ -129,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4cc3b3398011fc94",
@@ -439,10 +463,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c9d1b071378cd7",
+  "active": "8dc92e4eb0d57133",
   "lastOpenFiles": [
-    "06_每日/2026-01-26.md",
     "06_每日/2026-01-27.md",
+    "06_每日/2026-01-26.md",
     "05_內部_筆記/每週安排.md",
     "05_內部_筆記/健身筆記.md",
     "負債.md",
