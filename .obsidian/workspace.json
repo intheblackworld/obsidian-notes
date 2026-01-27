@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DK 寵物系統.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DK 寵物系統"
+              "title": "每週安排"
             }
           },
           {
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "室內設計 Line Bot POC.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "室內設計 Line Bot POC"
+              "title": "每週安排"
             }
           },
           {
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "4cc3b3398011fc94",
@@ -439,8 +439,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c9d1b071378cd7",
+  "active": "7b8b1b616887e236",
   "lastOpenFiles": [
+    "負債.md",
+    "DK 寵物系統.md",
     "05_內部_筆記/每週安排.md",
     "室內設計 Line Bot POC.md",
     "喬登衛浴.md",
@@ -455,7 +457,6 @@
     "AIVideoGod 搜集教學與應用場景.md",
     "Pasted image 20260126111943.png",
     "05_內部_筆記/聯盟戰棋/聯盟戰棋 裝備合成表.md",
-    "DK 寵物系統.md",
     "任務盤點.md",
     "aivideogod 商業心理學相關影片測試.md",
     "Aivis 官網.md",
@@ -468,7 +469,6 @@
     "EC 庫存系統.md",
     "EC 摸彩系統.md",
     "DK 每月完成率機制調整.md",
-    "DK 金流發票串接&定價.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
