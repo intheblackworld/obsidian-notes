@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "喬登衛浴.md",
+                "file": "05_內部_筆記/每週安排.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "喬登衛浴"
+              "title": "每週安排"
             }
           },
           {
@@ -441,8 +441,8 @@
   },
   "active": "84c9d1b071378cd7",
   "lastOpenFiles": [
-    "05_內部_筆記/每週安排.md",
     "喬登衛浴.md",
+    "05_內部_筆記/每週安排.md",
     "NNTIX 資料.md",
     "06_每日/2026-01-26.md",
     "06_每日/2026-01-25.md",
