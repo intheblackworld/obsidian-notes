@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Code 優化.md",
+                "file": "05_內部_筆記/CZ 資料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Claude Code 優化"
+              "title": "CZ 資料"
             }
           },
           {
@@ -128,8 +128,7 @@
               "title": "aivideogod 模特兒代言影片測試"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4cc3b3398011fc94",
@@ -439,13 +438,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dc92e4eb0d57133",
+  "active": "7514978600f57431",
   "lastOpenFiles": [
-    "06_每日/2026-01-27.md",
+    "Claude Code 優化.md",
     "05_內部_筆記/每週安排.md",
+    "05_內部_筆記/健身筆記.md",
+    "06_每日/2026-01-27.md",
     "aivideogod 模特兒代言影片測試.md",
     "06_每日/2026-01-26.md",
-    "05_內部_筆記/健身筆記.md",
     "負債.md",
     "DK 寵物系統.md",
     "室內設計 Line Bot POC.md",
@@ -468,7 +468,6 @@
     "05_內部_筆記/能量學/20260103  生生世世告別負債.md",
     "05_內部_筆記/能量學/20250810 五運班 F 如何自己救自己.md",
     "05_內部_筆記/觀心書",
-    "EC 庫存系統.md",
     "Pasted image 20260115225527.png",
     "Pasted image 20260115225128.png",
     "Pasted image 20260115224640.png",
